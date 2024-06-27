@@ -1,2 +1,4 @@
 # Anomaly-Detection-In-Credit-Card-Fraud-Dataset
 In a project focused on detecting credit card fraud, I leveraged a robust tech stack including Python, Scikit-learn, TensorFlow, Keras, Pandas, Numpy, Matplotlib, and Seaborn. The process began with extensive Exploratory Data Analysis (EDA) to uncover patterns and insights within the dataset. To enhance computational efficiency, I applied Principal Component Analysis (PCA) for dimensionality reduction. For the detection of fraudulent activities, I implemented various anomaly detection techniques such as One-Class SVM, Isolation Forest, Local Outlier Factor (LOF), and DBSCAN. Additionally, I designed a Generative Adversarial Network (GAN) pipeline to provide advanced outlier detection capabilities, thereby improving the overall accuracy and robustness of the fraud detection system.
+
+Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
